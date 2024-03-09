@@ -1,9 +1,9 @@
-### Run D20.py
+### Run main.py
 
-QE to rotate
+QE -> rotate
 
-WASD to move
+WASD -> move
 
-Space to pause
+Space -> pause
 
-console to change shape: cube, long, d20
+type in console to change shapes: cube, long, d20

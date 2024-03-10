@@ -1,6 +1,6 @@
 A little fun script to render 3D objects with by matrix.
 
-Matrix | 3D | Perspective | Cube | Icosahedron (a D20 if DnD is your thing)
+Matrix | Perspective | Cube | Icosahedron (a D20 if DnD is your thing)
 
 
 ### Snapshot

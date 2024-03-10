@@ -1,6 +1,6 @@
-A little fun script to render 3D objects with by matrix.
+A little fun script to render 3D objects with linear algebra
 
-Matrix | Perspective | Cube | Icosahedron (a D20 if DnD is your thing)
+Matrix | Perspective | Cube | Icosahedron (or a D20 if you like DnD)
 
 
 ### Snapshot

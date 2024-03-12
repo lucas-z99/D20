@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=rg4JPvk5H4E
 
 ### Run main.py
 
-In console, type to change shape: cube, long, d20
+Type In console to change shape: cube, long, d20
 
 QE -> rotate
 

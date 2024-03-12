@@ -15,5 +15,5 @@ WASD -> move
 
 Space -> pause
 
-Type in the console to change shapes: cube, long, d20
+In console, type any of these to change shape: cube, long, d20
 
